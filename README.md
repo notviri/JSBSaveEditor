@@ -6,8 +6,8 @@ Small command line utility to quickly encode/decode .jsb savedata.
 ## Where are the savefiles?
 On PC, they are located at `C:\Users\<user>\AppData\LocalLow\Berzerk Studio\Just Shapes _ Beats`.
 
-## How do I replace the files? Steam Cloud is being an ass!
-To prevent auto-sync, tick off [this](https://i.imgur.com/JEzIfez.png) box in the game properties.
+## How do I replace the savefiles? They keep being reverted!
+To prevent auto-sync *(Steam Cloud)*, tick off [this](https://i.imgur.com/JEzIfez.png) box in the game properties.
 
 # Downloads & Info
 ## Releases
