@@ -2,6 +2,9 @@
 
 Small command line utility to quickly encode/decode .jsb savedata.
 
+## Download
+If you don't want to build it yourself get the latest build (for windows) [here](https://github.com/notviri/JSBSaveEditor/releases/download/v1.0/JSBSaveEditor_v1.0.zip).
+
 ## Usage
 
 ### Decoding .jsb to .json
