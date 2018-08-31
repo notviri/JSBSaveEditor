@@ -2,10 +2,15 @@
 
 Small command line utility to quickly encode/decode .jsb savedata.
 
+# Help
 ## Where are the savefiles?
 On PC, they are located at `C:\Users\<user>\AppData\LocalLow\Berzerk Studio\Just Shapes _ Beats`.
 
-## Download
+## How do I replace the files? Steam Cloud is being an ass!
+To prevent auto-sync, tick off [this](https://i.imgur.com/JEzIfez.png) box in the game properties.
+
+# Downloads & Info
+## Releases
 If you don't want to build it yourself get the latest build [here](https://github.com/notviri/JSBSaveEditor/releases/download/v1.0/JSBSaveEditor_v1.0.zip).
 
 ## Usage
@@ -19,7 +24,7 @@ If you don't want to build it yourself get the latest build [here](https://githu
 
 Very simple! ✨
 
-## Information
+## "Documentation" & Notes
 It's just a JSON file with no indentation which is then shoved through a function that XORs each byte by **129**.  
 If you look in the `SimpleCrypto` class of the game you can see that 
 an attempt at implementing Rijndael cipher was made, it's unused though.
@@ -30,5 +35,5 @@ although he still went through the trouble to implement a mediocre anti-tamper f
   
 An identically functioning copy to `SimpleCrypto` can be found at https://pastebin.com/HgcZZhZw
 
-## Contact
+# Contact
 I'm most active on discord, add me @ **viri#0001** if anything breaks 👌
