@@ -2,8 +2,11 @@
 
 Small command line utility to quickly encode/decode .jsb savedata.
 
+## Where are the savefiles?
+On PC, they are located at `C:\Users\<user>\AppData\LocalLow\Berzerk Studio\Just Shapes _ Beats`.
+
 ## Download
-If you don't want to build it yourself get the latest build (for windows) [here](https://github.com/notviri/JSBSaveEditor/releases/download/v1.0/JSBSaveEditor_v1.0.zip).
+If you don't want to build it yourself get the latest build [here](https://github.com/notviri/JSBSaveEditor/releases/download/v1.0/JSBSaveEditor_v1.0.zip).
 
 ## Usage
 
