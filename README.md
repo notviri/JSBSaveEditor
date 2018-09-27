@@ -36,4 +36,4 @@ although he still went through the trouble to implement a mediocre anti-tamper f
 An identically functioning copy to `SimpleCrypto` can be found at https://pastebin.com/HgcZZhZw
 
 # Contact
-I'm most active on discord, add me @ **viri#0001** if anything breaks 👌
+I'm most active on discord, add me @ **viri#3116** if anything breaks 👌
