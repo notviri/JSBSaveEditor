@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 namespace jsb2json {
     internal class Program {
         // A basic XOR cipher, pfft
-        public static string SimpleXOR(ref string data) {
+        internal static string SimpleXOR(ref string data) {
             StringBuilder src = new StringBuilder(data);
             StringBuilder dest = new StringBuilder(data.Length);
             for (int i = 0; i < data.Length; ++i) {
