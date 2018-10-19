@@ -11,7 +11,9 @@ To prevent auto-sync *(Steam Cloud)*, tick off [this](https://i.imgur.com/JEzIfe
 
 # Downloads & Info
 ### Releases
-If you don't want to build it yourself get the latest build [here](https://github.com/notviri/jsb2json/releases/download/v1.0/jsb2json.exe).
+If you don't want to build it yourself get the latest build for Windows [here](https://github.com/notviri/jsb2json/releases/download/v1.0/jsb2json.exe).
+  
+If you're on any other platform, sorry? Game's only on Windows/Nintendo Switch though.
 
 ### Usage
 
