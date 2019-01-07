@@ -43,4 +43,4 @@ An identically functioning copy to `SimpleCrypto` can be found at https://pasteb
 This tool depends on [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) [(nuget)](https://www.nuget.org/packages/Newtonsoft.Json/), so link that.
 
 # Contact
-I'm most active on discord, add me @ **viri#3116** if anything breaks 👌
+I'm most active on discord, add me @ **viri#1337** if anything breaks 👌
