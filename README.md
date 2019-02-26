@@ -37,7 +37,7 @@ It was going to use the password **UNESTIDEGROSCACA** and derive the Key / IV fr
 Perhaps the developers realized that's a little overkill for Δ & ♫, 
 although they still went through the trouble to implement a mediocre anti-tamper for the *beat points* earned in-game.
   
-An identically functioning copy to `SimpleCrypto` can be found at https://pastebin.com/HgcZZhZw
+An identically functioning copy to `SimpleCrypto` can be found [in the repo.](/simplecrypto.cs)
 
 # Building
 This tool depends on [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) [(nuget)](https://www.nuget.org/packages/Newtonsoft.Json/), so link that.
